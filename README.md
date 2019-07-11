@@ -12,3 +12,6 @@ Stated below are Sue’s priorities:
 5. Storage space is important to Sue, owing to her long-distance visits to family, camping trips, etc.
 6. Sue considers the vehicle’s safety rating of utmost importance, and the total cost of owning and
 operating the vehicle as her second most important factor in the decision.
+
+
+**Link to Tableau Dashboard** - https://public.tableau.com/profile/rishab.gupta#!/vizhome/RecommendationforVehiclePurchase/SCover
